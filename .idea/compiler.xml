@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Lab10" />
+        <module name="Lab11" />
+        <module name="elibrary-democrud-unittesting-web" />
+        <module name="productmgmtcliapp" />
+        <module name="lesson15" />
+        <module name="Lab9" />
+        <module name="lesson13-testing-arithmeticops" />
+        <module name="Lab7" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Lab10" options="-parameters" />
+      <module name="Lab11" options="-parameters" />
+      <module name="Lab7" options="-parameters" />
+      <module name="Lab9" options="-parameters" />
+      <module name="elibrary-democrud-unittesting-web" options="-parameters" />
+    </option>
+  </component>
+</project>
