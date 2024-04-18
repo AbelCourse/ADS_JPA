@@ -8,8 +8,8 @@
         <version>3.1.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>edu.miu.cs.cs489.lesson6</groupId>
-    <artifactId>citylibraryapp</artifactId>
+    <groupId>edu.miu.cs.cs489.lesson10</groupId>
+    <artifactId>lab10</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Lab10</name>
     <description>Lab10</description>
